@@ -1,0 +1,6 @@
+@SGEC.Backend_HostAddress = http://localhost:5114
+
+GET {{SGEC.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

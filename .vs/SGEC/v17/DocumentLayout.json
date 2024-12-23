@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\controllers\\tecnicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\controllers\\tecnicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\controllers\\coordinadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\controllers\\coordinadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\entities\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\entities\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\entities\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\entities\\historialadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\entities\\historialadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\entities\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\entities\\tecnico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\entities\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\entities\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\entities\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\entities\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\entities\\actaentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\entities\\actaentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\controllers\\oficinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\controllers\\oficinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\controllers\\historialadministradorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\controllers\\historialadministradorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\controllers\\actaentregascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\controllers\\actaentregascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\controllers\\contratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\controllers\\contratoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\controllers\\ordencomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\controllers\\ordencomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\controllers\\computadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\controllers\\computadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\entities\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\entities\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\migrations\\20241221181314_addcoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\migrations\\20241221181314_addcoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.backend\\sgec.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9CE6F748-4FD1-487D-A874-2AC0E83D809F}|SGEC.Backend\\SGEC.Backend.csproj|solutionrelative:sgec.backend\\sgec.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|d:\\docusuarios\\dieg0\\onedrive\\documentos\\deberes\\cuarto semestre\\pawebymobiles\\ssec\\sgec\\sgec.shared\\sgec.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14974AF0-1B64-4DC2-8189-77E397EC3A16}|SGEC.Shared\\SGEC.Shared.csproj|solutionrelative:sgec.shared\\sgec.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "SGEC.Backend\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:31:28.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoordinadorsController.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\CoordinadorsController.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Controllers\\CoordinadorsController.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\CoordinadorsController.cs",
+              "RelativeToolTip": "SGEC.Backend\\Controllers\\CoordinadorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:25:37.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Oficina.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Oficina.cs",
+              "RelativeDocumentMoniker": "SGEC.Shared\\Entities\\Oficina.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Oficina.cs",
+              "RelativeToolTip": "SGEC.Shared\\Entities\\Oficina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:50:36.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contrato.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Contrato.cs",
+              "RelativeDocumentMoniker": "SGEC.Shared\\Entities\\Contrato.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Contrato.cs",
+              "RelativeToolTip": "SGEC.Shared\\Entities\\Contrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:51:08.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistorialAdministrador.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\HistorialAdministrador.cs",
+              "RelativeDocumentMoniker": "SGEC.Shared\\Entities\\HistorialAdministrador.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\HistorialAdministrador.cs",
+              "RelativeToolTip": "SGEC.Shared\\Entities\\HistorialAdministrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:52:10.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tecnico.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Tecnico.cs",
+              "RelativeDocumentMoniker": "SGEC.Shared\\Entities\\Tecnico.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Tecnico.cs",
+              "RelativeToolTip": "SGEC.Shared\\Entities\\Tecnico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:49:54.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Computador.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Computador.cs",
+              "RelativeDocumentMoniker": "SGEC.Shared\\Entities\\Computador.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Computador.cs",
+              "RelativeToolTip": "SGEC.Shared\\Entities\\Computador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:50:22.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Program.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Program.cs",
+              "RelativeToolTip": "SGEC.Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:02:31.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "SGEC.Backend\\appsettings.json",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\appsettings.json",
+              "RelativeToolTip": "SGEC.Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T00:02:31.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Data\\DataContext.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Data\\DataContext.cs",
+              "RelativeToolTip": "SGEC.Backend\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:27:34.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TecnicosController.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\TecnicosController.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Controllers\\TecnicosController.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\TecnicosController.cs",
+              "RelativeToolTip": "SGEC.Backend\\Controllers\\TecnicosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:28:13.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coordinador.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Coordinador.cs",
+              "RelativeDocumentMoniker": "SGEC.Shared\\Entities\\Coordinador.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Coordinador.cs",
+              "RelativeToolTip": "SGEC.Shared\\Entities\\Coordinador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:44:54.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "SGEC.Shared\\Entities\\Usuario.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\Usuario.cs",
+              "RelativeToolTip": "SGEC.Shared\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:51:22.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActaEntrega.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\ActaEntrega.cs",
+              "RelativeDocumentMoniker": "SGEC.Shared\\Entities\\ActaEntrega.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\ActaEntrega.cs",
+              "RelativeToolTip": "SGEC.Shared\\Entities\\ActaEntrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:51:45.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OficinaController.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\OficinaController.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Controllers\\OficinaController.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\OficinaController.cs",
+              "RelativeToolTip": "SGEC.Backend\\Controllers\\OficinaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:29:28.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HistorialAdministradorsController.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\HistorialAdministradorsController.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Controllers\\HistorialAdministradorsController.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\HistorialAdministradorsController.cs",
+              "RelativeToolTip": "SGEC.Backend\\Controllers\\HistorialAdministradorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:32:43.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActaEntregasController.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\ActaEntregasController.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Controllers\\ActaEntregasController.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\ActaEntregasController.cs",
+              "RelativeToolTip": "SGEC.Backend\\Controllers\\ActaEntregasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:32:16.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContratosController.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\ContratosController.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Controllers\\ContratosController.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\ContratosController.cs",
+              "RelativeToolTip": "SGEC.Backend\\Controllers\\ContratosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:30:58.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrdenComprasController.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\OrdenComprasController.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Controllers\\OrdenComprasController.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\OrdenComprasController.cs",
+              "RelativeToolTip": "SGEC.Backend\\Controllers\\OrdenComprasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:30:37.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ComputadorsController.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\ComputadorsController.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Controllers\\ComputadorsController.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Controllers\\ComputadorsController.cs",
+              "RelativeToolTip": "SGEC.Backend\\Controllers\\ComputadorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:29:01.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrdenCompra.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\OrdenCompra.cs",
+              "RelativeDocumentMoniker": "SGEC.Shared\\Entities\\OrdenCompra.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Entities\\OrdenCompra.cs",
+              "RelativeToolTip": "SGEC.Shared\\Entities\\OrdenCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:50:52.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241221181314_AddCoordinador.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Migrations\\20241221181314_AddCoordinador.cs",
+              "RelativeDocumentMoniker": "SGEC.Backend\\Migrations\\20241221181314_AddCoordinador.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\Migrations\\20241221181314_AddCoordinador.cs",
+              "RelativeToolTip": "SGEC.Backend\\Migrations\\20241221181314_AddCoordinador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T18:13:14.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SGEC.Backend.csproj",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\SGEC.Backend.csproj",
+              "RelativeDocumentMoniker": "SGEC.Backend\\SGEC.Backend.csproj",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Backend\\SGEC.Backend.csproj",
+              "RelativeToolTip": "SGEC.Backend\\SGEC.Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T00:02:30.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SGEC.Shared.csproj",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\SGEC.Shared.csproj",
+              "RelativeDocumentMoniker": "SGEC.Shared\\SGEC.Shared.csproj",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\SGEC.Shared.csproj",
+              "RelativeToolTip": "SGEC.Shared\\SGEC.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T21:38:25.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "SGEC.Shared\\Class1.cs",
+              "ToolTip": "D:\\DocUsuarios\\Dieg0\\OneDrive\\Documentos\\DEBERES\\CUARTO SEMESTRE\\PAWEBYMOBILES\\SSEC\\SGEC\\SGEC.Shared\\Class1.cs",
+              "RelativeToolTip": "SGEC.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:37:40.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

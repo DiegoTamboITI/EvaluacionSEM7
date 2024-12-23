@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGEC.Backend", "SGEC.Backend\SGEC.Backend.csproj", "{9CE6F748-4FD1-487D-A874-2AC0E83D809F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGEC.Shared", "SGEC.Shared\SGEC.Shared.csproj", "{14974AF0-1B64-4DC2-8189-77E397EC3A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE6F748-4FD1-487D-A874-2AC0E83D809F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE6F748-4FD1-487D-A874-2AC0E83D809F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE6F748-4FD1-487D-A874-2AC0E83D809F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE6F748-4FD1-487D-A874-2AC0E83D809F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14974AF0-1B64-4DC2-8189-77E397EC3A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14974AF0-1B64-4DC2-8189-77E397EC3A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14974AF0-1B64-4DC2-8189-77E397EC3A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14974AF0-1B64-4DC2-8189-77E397EC3A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
