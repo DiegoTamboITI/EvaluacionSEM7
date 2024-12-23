@@ -1,3 +1,11 @@
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.csproj.AssemblyReference.cache
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.AssemblyInfoInputs.cache
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.AssemblyInfo.cs
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.csproj.CoreCompileInputs.cache
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.sourcelink.json
 D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\bin\Debug\net8.0\appsettings.Development.json
 D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\bin\Debug\net8.0\appsettings.json
 D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\bin\Debug\net8.0\SGEC.Backend.staticwebassets.endpoints.json
@@ -148,14 +156,6 @@ D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\S
 D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\bin\Debug\net8.0\SGEC.Shared.dll
 D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\bin\Debug\net8.0\SGEC.Shared.pdb
-D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.csproj.AssemblyReference.cache
-D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.GeneratedMSBuildEditorConfig.editorconfig
-D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.AssemblyInfoInputs.cache
-D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.AssemblyInfo.cs
-D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.csproj.CoreCompileInputs.cache
-D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.MvcApplicationPartsAssemblyInfo.cs
-D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.MvcApplicationPartsAssemblyInfo.cache
-D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\SGEC.Backend.sourcelink.json
 D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\scopedcss\bundle\SGEC.Backend.styles.css
 D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\staticwebassets.build.json
 D:\DocUsuarios\Dieg0\OneDrive\Documentos\DEBERES\CUARTO SEMESTRE\PAWEBYMOBILES\SSEC\SGEC\SGEC.Backend\obj\Debug\net8.0\staticwebassets.development.json

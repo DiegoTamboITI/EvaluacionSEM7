@@ -14,7 +14,7 @@ namespace SGEC.Backend.Data
         public DbSet<Computador> computadores { get; set; }
         public DbSet<Contrato> contratos { get; set; }
         public DbSet<HistorialAdministrador> historialadministradores { get; set; }
-        public DbSet<OrdenCompra> OrdenesCompra { get; set; }
+        public DbSet<OrdenCompra> ordencompras { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

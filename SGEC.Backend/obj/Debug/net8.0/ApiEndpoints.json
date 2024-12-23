@@ -1,5 +1,212 @@
 [
   {
+    "ContainingType": "SGEC.Backend.Controllers.ActaEntregasController",
+    "Method": "AddActaEntrega",
+    "RelativePath": "api/ActaEntregas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "actaentregas",
+        "Type": "SGEC.Shared.Entities.ActaEntrega",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ActaEntregasController",
+    "Method": "LeerActaEntrega",
+    "RelativePath": "api/ActaEntregas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ActaEntregasController",
+    "Method": "ActualizarActaEntrega",
+    "RelativePath": "api/ActaEntregas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "actaentregaActualizado",
+        "Type": "SGEC.Shared.Entities.ActaEntrega",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ActaEntregasController",
+    "Method": "EliminarActaEntrega",
+    "RelativePath": "api/ActaEntregas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ComputadorsController",
+    "Method": "addComputador",
+    "RelativePath": "api/Computadors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "computadores",
+        "Type": "SGEC.Shared.Entities.Computador",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ComputadorsController",
+    "Method": "LeerComputador",
+    "RelativePath": "api/Computadors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ComputadorsController",
+    "Method": "ActualizarComputador",
+    "RelativePath": "api/Computadors/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "computadorActualizado",
+        "Type": "SGEC.Shared.Entities.Computador",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ComputadorsController",
+    "Method": "EliminarComputador",
+    "RelativePath": "api/Computadors/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ContratosController",
+    "Method": "addContrato",
+    "RelativePath": "api/Contratos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contratos",
+        "Type": "SGEC.Shared.Entities.Contrato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ContratosController",
+    "Method": "LeerContrato",
+    "RelativePath": "api/Contratos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ContratosController",
+    "Method": "ActualizarContrato",
+    "RelativePath": "api/Contratos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "contratoActualizado",
+        "Type": "SGEC.Shared.Entities.Contrato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.ContratosController",
+    "Method": "EliminarContrato",
+    "RelativePath": "api/Contratos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SGEC.Backend.Controllers.CoordinadorsController",
     "Method": "AddCoordinador",
     "RelativePath": "api/Coordinadors",
@@ -56,6 +263,351 @@
     "ContainingType": "SGEC.Backend.Controllers.CoordinadorsController",
     "Method": "EliminarCoordinador",
     "RelativePath": "api/Coordinadors/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.HistorialAdministradorsController",
+    "Method": "addHistorialAdministrador",
+    "RelativePath": "api/HistorialAdministradors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "historialadministradores",
+        "Type": "SGEC.Shared.Entities.HistorialAdministrador",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.HistorialAdministradorsController",
+    "Method": "LeerHistorialAdministrador",
+    "RelativePath": "api/HistorialAdministradors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.HistorialAdministradorsController",
+    "Method": "ActualizarHistorialAdministrador",
+    "RelativePath": "api/HistorialAdministradors/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "historialAdministradorActualizado",
+        "Type": "SGEC.Shared.Entities.HistorialAdministrador",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.HistorialAdministradorsController",
+    "Method": "EliminarHistorialAdministrador",
+    "RelativePath": "api/HistorialAdministradors/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.OficinaController",
+    "Method": "addOficina",
+    "RelativePath": "api/Oficina",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oficinas",
+        "Type": "SGEC.Shared.Entities.Oficina",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.OficinaController",
+    "Method": "LeerOficina",
+    "RelativePath": "api/Oficina/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.OficinaController",
+    "Method": "ActualizarOficina",
+    "RelativePath": "api/Oficina/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "oficinaActualizada",
+        "Type": "SGEC.Shared.Entities.Oficina",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.OficinaController",
+    "Method": "EliminarOficina",
+    "RelativePath": "api/Oficina/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.OrdenComprasController",
+    "Method": "addOrdenCompra",
+    "RelativePath": "api/OrdenCompras",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ordencompras",
+        "Type": "SGEC.Shared.Entities.OrdenCompra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.OrdenComprasController",
+    "Method": "LeerOrdenCompra",
+    "RelativePath": "api/OrdenCompras/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.OrdenComprasController",
+    "Method": "ActualizarOrdenCompra",
+    "RelativePath": "api/OrdenCompras/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "ordenCompraActualizada",
+        "Type": "SGEC.Shared.Entities.OrdenCompra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.OrdenComprasController",
+    "Method": "EliminarOrdenCompra",
+    "RelativePath": "api/OrdenCompras/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.TecnicosController",
+    "Method": "addTecnico",
+    "RelativePath": "api/Tecnicos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tecnicos",
+        "Type": "SGEC.Shared.Entities.Tecnico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.TecnicosController",
+    "Method": "LeerTecnico",
+    "RelativePath": "api/Tecnicos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.TecnicosController",
+    "Method": "ActualizarTecnico",
+    "RelativePath": "api/Tecnicos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tecnicoActualizado",
+        "Type": "SGEC.Shared.Entities.Tecnico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.TecnicosController",
+    "Method": "EliminarTecnico",
+    "RelativePath": "api/Tecnicos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.UsuariosController",
+    "Method": "AddUsuario",
+    "RelativePath": "api/Usuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "SGEC.Shared.Entities.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.UsuariosController",
+    "Method": "LeerUsuario",
+    "RelativePath": "api/Usuarios/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.UsuariosController",
+    "Method": "ActualizarUsuario",
+    "RelativePath": "api/Usuarios/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuarioActualizado",
+        "Type": "SGEC.Shared.Entities.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SGEC.Backend.Controllers.UsuariosController",
+    "Method": "EliminarUsuario",
+    "RelativePath": "api/Usuarios/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
